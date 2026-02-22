@@ -16,7 +16,7 @@ The project includes a fully interactive **Streamlit web application** that allo
 - Visualize parameter updates
 - Observe convergence behavior
 - View transition probability evolution
-- Display a dynamic state transition diagram
+- Display a state transition diagram
 
 ---
 
@@ -146,4 +146,5 @@ The objective of this project is to:
 ## ✅ Conclusion
 
 This project successfully demonstrates how Hidden Markov Model parameters can be learned from observation data using the Baum–Welch algorithm.  
+
 
