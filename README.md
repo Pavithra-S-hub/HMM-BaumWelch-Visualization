@@ -87,6 +87,16 @@ These visualizations demonstrate how parameters stabilize over iterations.
 
 ---
 
+## Media
+
+<img width="907" height="820" alt="image" src="https://github.com/user-attachments/assets/396862ee-8081-4dcc-a634-56664aca272a" />
+<img width="978" height="752" alt="image" src="https://github.com/user-attachments/assets/4ccfa395-61b8-4082-a99b-3f0d1bbb844e" />
+<img width="962" height="651" alt="image" src="https://github.com/user-attachments/assets/0c316f65-7c54-4cff-b39a-c15ada7a9d96" />
+<img width="948" height="582" alt="image" src="https://github.com/user-attachments/assets/fb524725-8175-49f3-9ca9-812782081ae9" />
+<img width="957" height="686" alt="image" src="https://github.com/user-attachments/assets/3091925e-e8de-4961-8aaa-bef483b35841" />
+
+---
+
 ## 🚀 How to Run the Project
 
 Clone the Repository:
@@ -136,3 +146,4 @@ The objective of this project is to:
 ## ✅ Conclusion
 
 This project successfully demonstrates how Hidden Markov Model parameters can be learned from observation data using the Baum–Welch algorithm.  
+
