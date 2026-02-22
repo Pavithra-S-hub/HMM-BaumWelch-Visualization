@@ -106,7 +106,7 @@ cd HMM-BaumWelch-Visualization
 
 pip install -r requirements.txt  
 
-streamlit run app.py  
+python -m streamlit run app.py  
 
 The Streamlit application will open automatically in your browser.
 
@@ -146,5 +146,6 @@ The objective of this project is to:
 ## ✅ Conclusion
 
 This project successfully demonstrates how Hidden Markov Model parameters can be learned from observation data using the Baum–Welch algorithm.  
+
 
 
