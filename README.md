@@ -89,4 +89,50 @@ These visualizations demonstrate how parameters stabilize over iterations.
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the Repository
+Clone the Repository:
+git clone https://github.com/Pavithra-S-hub/HMM-BaumWelch-Visualization.git 
+
+cd HMM-BaumWelch-Visualization  
+
+pip install -r requirements.txt  
+
+streamlit run app.py  
+
+The Streamlit application will open automatically in your browser.
+
+---
+
+## 📂 Project Structure
+
+HMM-BaumWelch-Visualization/  
+│  
+├── app.py  
+├── hmm_baum_welch.py  
+├── requirements.txt  
+└── README.md  
+
+---
+
+## 🎯 Objective
+
+The objective of this project is to:
+
+- Understand Hidden Markov Models
+- Implement the Baum–Welch Algorithm from scratch
+- Visualize parameter convergence
+- Analyze transition probability evolution
+- Build an interactive AI-based visualization tool
+
+---
+
+## 📚 References
+
+- Rabiner, L. R. (1989). “A Tutorial on Hidden Markov Models”
+- Hidden Markov Model Theory
+- Baum–Welch Algorithm (EM Method)
+
+---
+
+## ✅ Conclusion
+
+This project successfully demonstrates how Hidden Markov Model parameters can be learned from observation data using the Baum–Welch algorithm.  
